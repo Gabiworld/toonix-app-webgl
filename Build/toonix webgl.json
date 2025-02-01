@@ -1,0 +1,13 @@
+{
+"companyName": "Blokwise",
+"productName": "Toonix",
+"dataUrl": "toonix webgl.data.unityweb",
+"wasmCodeUrl": "toonix webgl.wasm.code.unityweb",
+"wasmFrameworkUrl": "toonix webgl.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "toonix webgl.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF"
+}
